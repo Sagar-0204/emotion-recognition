@@ -33,9 +33,21 @@ This project implements a **real-time facial emotion recognition system** using 
 
 ---
 
+## Dataset
+
+- **FER-2013**: [Kaggle - Facial Expression Recognition](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+
+---
+
+## Contributing
+
+Pull requests and feedback are welcome! For major changes, please open an issue first to discuss your idea.
+
+
 ## Requirements
 
 Install required libraries using:
 
 ```bash
 pip install tensorflow opencv-python pandas numpy scikit-learn
+
